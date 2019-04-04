@@ -17,5 +17,3 @@ cache:
 script:
   - ./gradlew test
   
-before_script:
- - chmod +x ./gradlew build connectedCheck
