@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="romannumberconverter.RomanTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-22T14:54:31" hostname="Dracot-Computer" time="0.136">
+  <properties/>
+  <testcase name="checkNombreInconnu" classname="romannumberconverter.RomanTest" time="0.117"/>
+  <testcase name="checkNonReconnu" classname="romannumberconverter.RomanTest" time="0.001"/>
+  <testcase name="checkLudo2" classname="romannumberconverter.RomanTest" time="0.006"/>
+  <testcase name="checkGroupement3" classname="romannumberconverter.RomanTest" time="0.001"/>
+  <testcase name="checkGroupement5" classname="romannumberconverter.RomanTest" time="0.001"/>
+  <testcase name="checkCaract" classname="romannumberconverter.RomanTest" time="0.001"/>
+  <testcase name="checkLudo" classname="romannumberconverter.RomanTest" time="0.001"/>
+  <testcase name="checkNombre" classname="romannumberconverter.RomanTest" time="0.006"/>
+  <testcase name="checkALaSuite" classname="romannumberconverter.RomanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
